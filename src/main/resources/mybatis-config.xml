@@ -17,5 +17,10 @@
 
     <mappers>
         <mapper class="com.book.dao.UserMapper" />
+        <mapper class="com.book.dao.BookMapper" />
+        <mapper class="com.book.dao.StudentMapper" />
+
+
     </mappers>
+
 </configuration>
